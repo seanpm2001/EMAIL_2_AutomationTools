@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📧️2️⃣️🛠️💾️ The official source repository for the EMAIL 2.0 Automation Tools specification, for helping to automate email sending and receiving. Not intended to be used for spam/phishing bots. This usage is highly discouraged, but can't be entirely avoided.
